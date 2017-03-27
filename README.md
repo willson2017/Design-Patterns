@@ -20,4 +20,11 @@ git fetch origin
 git pull https://github.com/willson2017/simplegitrepo.git
 
 #update to github
+git add .
+git commit -m "xxx"
+git push
+
+#git tag
+git tag
+
 
