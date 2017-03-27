@@ -36,3 +36,12 @@ git tag -a v0.1 -m "add version"
 git show v0.0 #show detail of the tag
 
 
+git tag -a v0.2 8decff #log name, we can use 6 digit characters for these hash codes
+
+#push tag
+git push origin v0.1
+
+#log
+git log --pretty=oneline
+
+
