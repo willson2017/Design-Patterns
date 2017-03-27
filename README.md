@@ -30,6 +30,5 @@ git push
 
 #git tag
 
-git tag
-
+git tag -a v0.1 -m "add version"
 
