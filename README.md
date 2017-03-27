@@ -32,3 +32,7 @@ git push
 
 git tag -a v0.1 -m "add version"
 
+
+git show v0.0 #show detail of the tag
+
+
