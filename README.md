@@ -5,3 +5,9 @@ simple git practice
 git remote add origin https://github.com/willson2017/simplegitrepo.git
 
 git push -u origin master
+
+#list the remote url
+git remote -v
+
+#get the data from the remote by not merge the changes that are there with my work
+git fetch origin
